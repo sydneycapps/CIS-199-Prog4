@@ -1,0 +1,7 @@
+J:\CIS 199\Prog4\Prog4\bin\Debug\Prog4.exe.config
+J:\CIS 199\Prog4\Prog4\bin\Debug\Prog4.exe
+J:\CIS 199\Prog4\Prog4\bin\Debug\Prog4.pdb
+J:\CIS 199\Prog4\Prog4\obj\Debug\Prog4.exe
+J:\CIS 199\Prog4\Prog4\obj\Debug\Prog4.pdb
+J:\CIS 199\Prog4\Prog4\obj\Debug\Prog4.csprojAssemblyReference.cache
+J:\CIS 199\Prog4\Prog4\obj\Debug\Prog4.csproj.CoreCompileInputs.cache
